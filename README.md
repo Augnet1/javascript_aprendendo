@@ -1,1 +1,1 @@
-# javascript_aprendendo
+# Repositório utilizado para aprender javascript 
